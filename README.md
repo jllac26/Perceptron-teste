@@ -2,11 +2,13 @@
 
 Nesse repositório está implementado um modelo de perceptron na linguagem python
 
-Os dados usados para treinamento do modelo vieram do link: https://archive.ics.uci.edu/dataset/53/iris
+## Dados
 
-As bibliotecas utilizadas foram: Numpy e Matplot
+https://archive.ics.uci.edu/dataset/53/iris
 
-Esse projeto tem como intuito responder as seguintes questões:
+## Objetivo
+
+Responder as seguintes perguntas:
 
 a) Com o modelo de perceptron desenvolvido, realize uma rodada de inferência.
 
